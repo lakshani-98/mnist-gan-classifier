@@ -1,4 +1,4 @@
-# 🔢 DigitForge: GAN-Powered MNIST Digit Generator & Classifier
+# <img src="assets/digitforge-logo.png" alt="DigitForge Logo" width="40" style="vertical-align: middle;"/> DigitForge: GAN-Powered MNIST Digit Generator & Classifier
 
 This project demonstrates the use of **Generative Adversarial Networks (GANs)** to generate realistic handwritten digit images based on the MNIST dataset, and evaluates them using a Convolutional Neural Network (CNN) classifier.
 
